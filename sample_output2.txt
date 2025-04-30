@@ -1,0 +1,94 @@
+1
+valid
+valid
+valid
+invalid
+x
+2
+valid
+valid
+valid
+invalid
+x
+3
+valid
+invalid
+invalid
+x
+4
+valid
+invalid
+x
+5
+valid
+valid
+valid
+invalid
+invalid
+invalid
+x
+6
+valid
+valid
+invalid
+x
+7
+**aabb**
+number of matched substrings: 1
+ab [1, 2]
+----------------------------
+**aabaaaaabaa**
+number of matched substrings: 18
+aaba [0, 3]
+aabaaa [0, 5]
+aabaaaaa [0, 7]
+ab [1, 2]
+abaa [1, 4]
+abaaaa [1, 6]
+ba [2, 3]
+baaa [2, 5]
+baaaaa [2, 7]
+aaaaab [3, 8]
+aaaaabaa [3, 10]
+aaaaba [4, 9]
+aaab [5, 8]
+aaabaa [5, 10]
+aaba [6, 9]
+ab [7, 8]
+abaa [7, 10]
+ba [8, 9]
+----------------------------
+x
+8
+**The match was a perfect reflection of their hard work and dedication**
+Number of matched words: 4
+match [4, 9]
+reflection [24, 34]
+their [38, 43]
+dedication [58, 68]
+---------------------------------------------
+**Ants move quickly over dry sand**
+No word matches
+---------------------------------------------
+x
+9
+Timestamp: 2023-10-15 14:30:45, Level: INFO, Message: Application started
+Timestamp: 2023-10-15 14:31:10, Level: ERROR, Message: Failed to connect to database
+Timestamp: 2023-10-15 14:32:00, Level: INFO, Message: User logged in
+x
+10
+valid
+valid
+valid
+invalid
+x
+11
+valid
+invalid
+x
+12
+valid
+invalid
+x
+13
+x
